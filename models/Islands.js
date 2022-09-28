@@ -1,6 +1,6 @@
 const cloudinary = require("../middleware/cloudinary");
 const Post = require("../models/Post");
-//modify into islands database
+//modify into islands database mind islands. how to build an island must have core memories?
 module.exports = {
   getProfile: async (req, res) => {
     try {
